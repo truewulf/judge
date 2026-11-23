@@ -1,13 +1,13 @@
 # judge
 
-detector of machine writing style
+detector of m**a**ch**i**ne writing style
 
 reads only english text and scores it 0-100 for ai-ness: twenty-five
 metrics vote on cliches, rhythm, vocabulary and structure, and the
 verdict comes from the balance of votes. genre detection shifts the
 calibration.
 
-'very unstable'
+'**very unstable**'
 
 ## usage
 
